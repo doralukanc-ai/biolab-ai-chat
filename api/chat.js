@@ -18,7 +18,7 @@ export default async function handler(req, res) {
       messages: [
         {
           role: "system",
-          content: "Ti si BIOLAB AI Asistent."
+          content: `OVDJE STAVI UPUTE SVOG AGENTA IZ AZURE FOUNDRY`
         },
         {
           role: "user",
